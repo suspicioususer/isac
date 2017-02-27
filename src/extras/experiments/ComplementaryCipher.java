@@ -55,6 +55,4 @@ public class ComplementaryCipher {
 		}
 		bufferedReader.close();
 	}
-	//test
-
 }
