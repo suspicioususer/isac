@@ -7,7 +7,7 @@ import java.io.UnsupportedEncodingException;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
-public class PasswordHash {
+public class SHA256 {
 
 	private static String passwordHasher(String password)
 			throws NoSuchAlgorithmException, UnsupportedEncodingException {
