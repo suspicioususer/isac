@@ -69,5 +69,5 @@ public class ShiftCipherHM {
 			System.out.println("Decrypted Data : " + decrypted);
 		}
 		bufferedReader.close();
-	}
+	}//test
 }
