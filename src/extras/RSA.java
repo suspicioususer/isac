@@ -51,7 +51,6 @@ public class RSA {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-
 	}
 
 	public static boolean areKeysExists() {
